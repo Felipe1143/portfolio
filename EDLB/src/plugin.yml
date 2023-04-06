@@ -1,0 +1,12 @@
+main: Extrim.EDLB.Main
+name: Core
+version: '1.0'
+description: Core
+author: Extrim
+commands:
+  join:
+   description: JOIN
+  estado:
+   description: ESTADO
+  leave:
+   description: SALIR
