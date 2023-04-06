@@ -1,0 +1,12 @@
+main: Felipe221.ComuGamers.Factions.Main
+name: FactionsC
+version: '1.0'
+description: Factions Core
+author: Felipe221
+loadbefore: [Factions, MassiveCore, Vault]
+depend: [Factions, MassiveCore, Vault]
+commands:
+  war:
+   description: War command
+  si:
+   description: Si command
